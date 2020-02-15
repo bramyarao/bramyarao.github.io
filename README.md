@@ -9,5 +9,17 @@ Below are examples of a few personal projects, some of them are from my Doctoral
 </div>
 
 ## Coding Projects
-
+<div style="text-align: justify">
+  
+  * Solving the **2D Poisson problem** numerically. Coded in MATLAB. <a href="https://bramyarao.github.io/2D-POISSON-MATLAB/">Link to the repository</a>.
+  
+  * Solving the **2D Poisson problem** numerically (same problem as done in MATLAB). Now coded in Python3. <a href="https://bramyarao.github.io/2D-POISSON-PYTHON/">Link to the repository</a>. Coming soon...
+  
+  * **Horse Racing prediction using Machine Learning**. Coded in parallel using C language with MPI. Scaling up Schocastic gradient descent. Coming soon...
+  
+  * **Reduced order modeling using Principal Component Analysis, for wave equation**. Solved numerically using RKCM. Coming soon...
+  
+  * **Image segmentation** (RGB image) using Level Set based method. Coming soon...
+  
+</div>
 
