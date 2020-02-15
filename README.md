@@ -1,5 +1,5 @@
 
-## About
+## About me
 <div style="text-align: justify">
 Currently pursuing Masters in Computer Science at University of British Columbia, Vancouver. Interested in the areas of Machine Learning, Data Science, Parallel/Distributed computing and Software Development.
 
