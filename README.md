@@ -21,7 +21,7 @@ Below are examples of a few personal projects, some of them are from my Doctoral
 ### Parallel Computing:
  <div style="text-align: justify"> 
 <ul style="list-style-type:disc;">
-  <li><b>Scaling up Stochastic Gradient Descent using Data Parallelism:</b> Application to Horse racing prediction using Machine Learning. Coded in parallel using C language with MPI. Coming soon...</li>  
+  <li><b>Scaling up Stochastic Gradient Descent using Data Parallelism:</b> Application to Horse racing prediction using Machine Learning. Coded in parallel using C language with MPI. <a href="https://bramyarao.github.io/Scaling-SGD/" target="_blank">Link to Github page</a>.</li>  
 </ul>  
 </div>
 
