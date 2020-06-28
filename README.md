@@ -31,7 +31,7 @@ Below are examples of a few personal projects, some of them are from my Doctoral
   <li>Solving the <b>2D Poisson problem</b> numerically. Coded in MATLAB. <a href="https://bramyarao.github.io/2D-POISSON-MATLAB/" target="_blank">Link to Github page</a>.</li>
   <li>Solving the <b>2D Poisson problem</b> numerically (same problem as done in MATLAB). Now coded in Python3. <a href="https://bramyarao.github.io/2D-POISSON-PYTHON/" target="_blank">Link to Github page</a>.</li>
   <li><b>Reduced order modeling using Principal Component Analysis, for wave equation</b>. Solved numerically using meshfree method. Coming soon...</li>
-  <li><b>Image segmentation</b> (RGB image) using Level Set based method. Coming soon...</li>
+  <li><b>Level Set Based Image Segmentation</b>. Coded in MATLAB. <a href="https://bramyarao.github.io/Level-Set-Based-Image-Segmentation/" target="_blank">Link to Github page</a>. </li>
 </ul>  
 </div>
 
