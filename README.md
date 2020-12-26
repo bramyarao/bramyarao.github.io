@@ -1,11 +1,11 @@
 
 ## About me
 <div style="text-align: justify">
-Currently pursuing Masters in Computer Science at University of British Columbia, Vancouver. Interested in the areas of Parallel/Distributed computing, Big Data, Machine Learning and Software Development.
+Currently pursuing Masters in Computer Science at University of British Columbia, Vancouver. Interested in the areas of Machine Learning, Parallel/Distributed computing and Software Development.
 
 I have worked previously as a Software Developer in Irvine, California, USA. Before this, I got my Doctoral degree in Structural engineering from University of California San Diego, in the field of Computational Mechanics (Numerical Simulation/Scientific computing).
 
-Below are examples of a few personal projects, some of them are from my Doctoral thesis and some are from current class projects. They include application problems or surveys for machine learning, parallel computing, image segmentation, numerical analysis and reduced order modeling using principal component analysis. 
+Below are examples of a few personal projects, some of them are from my Doctoral thesis and some are from current class projects. They include application problems or surveys for machine learning, parallel computing, information visualization, image segmentation, numerical analysis and reduced order modeling using principal component analysis. 
 </div>
 
 ## Projects
@@ -22,6 +22,13 @@ Below are examples of a few personal projects, some of them are from my Doctoral
  <div style="text-align: justify"> 
 <ul style="list-style-type:disc;">
   <li><b>Scaling up Stochastic Gradient Descent using Data Parallelism:</b> Application to Horse racing prediction using Machine Learning. Coded in parallel using C language with MPI. <a href="https://bramyarao.github.io/Scaling-SGD/" target="_blank">Link to Github page</a>.</li>  
+</ul>  
+</div>
+
+### Information Visualization:
+ <div style="text-align: justify"> 
+<ul style="list-style-type:disc;">
+  <li><b>Did we save our tigers?:</b> Explainer article for visualizing tiger population data in India and and the changes in population over the past two decades. Implemented as a webpage with visualizations created using Plotly in python. <a href="https://bramyarao.github.io/547-Infoviz-Final/" target="_blank">Link to Github page</a>.</li> <a href="https://github.com/bramyarao/547-Infoviz-Final" target="_blank">Link to the code repository</a>.</li> 
 </ul>  
 </div>
 
