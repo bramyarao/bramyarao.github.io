@@ -28,7 +28,7 @@ Below are examples of a few personal projects, some of them are from my Doctoral
 ### Information Visualization:
  <div style="text-align: justify"> 
 <ul style="list-style-type:disc;">
-  <li><b>Did we save our tigers?:</b> Explainer article for visualizing tiger population data in India and and the changes in population over the past two decades. Implemented as a webpage with visualizations created using Plotly in python. <a href="https://bramyarao.github.io/547-Infoviz-Final/" target="_blank">Link to Github page</a>. <a href="https://github.com/bramyarao/547-Infoviz-Final" target="_blank">Link to the code repository</a>.
+  <li><b>Did we save our tigers?:</b> Explainer article for visualizing tiger population data in India and and the changes in population over the past two decades. Implemented as a webpage with visualizations created using Plotly in python. <a href="https://bramyarao.github.io/547-Infoviz-Final/" target="_blank">Link to Github page</a> and the <a href="https://github.com/bramyarao/547-Infoviz-Final" target="_blank">code repository</a>.
   </li> 
 </ul>  
 </div>
