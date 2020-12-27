@@ -12,7 +12,8 @@ Below are examples of a few personal projects, some of them are from my Doctoral
 ### Machine Learning Projects / Implementations:
 <div style="text-align: justify"> 
 <ul style="list-style-type:disc;">
-  <li>Class Project (short term paper): Review of Machine Learning Methods for Human Face Recognition in Images. <a href="https://bramyarao.github.io/Review-Face-Recognition/" target="_blank">Link to Github page</a>.</li>
+  <li>Review of Machine Learning Methods for Human Face Recognition in Images. <a href="https://bramyarao.github.io/Review-Face-Recognition/" target="_blank">Link to Github page</a>.</li>
+  <li>Review of Question Answering in Natural Language Processing. <a href="https://bramyarao.github.io/NLP-QA/" target="_blank">Link to Github page</a>.</li>
   <li>Fundamental Machine Learning Methods Part I: Classification (Jupyter Notebook). Coming soon...</li>
   <li>Fundamental Machine Learning Methods Part II: Regression (Jupyter Notebook). Coming soon...</li>
 </ul>  
