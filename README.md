@@ -1,7 +1,7 @@
 
 ## About me
 <div style="text-align: justify">
-Currently pursuing Masters in Computer Science at University of British Columbia, Vancouver. Interested in the areas of Machine Learning, Parallel/Distributed computing and Software Development.
+Graduated with Masters in Computer Science at University of British Columbia, Vancouver in May 2021. Interested in the areas of Machine Learning, Parallel/Distributed computing and Software Development. Actively looking for full time job opportunities.
 
 I have worked previously as a Software Developer in Irvine, California, USA. Before this, I got my Doctoral degree in Structural engineering from University of California San Diego, in the field of Computational Mechanics (Numerical Simulation/Scientific computing).
 
