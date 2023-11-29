@@ -1,21 +1,10 @@
 
-## About me
-<div style="text-align: justify">
-Graduated with Masters in Computer Science at University of British Columbia, Vancouver in May 2021. Interested in the areas of Machine Learning, Parallel/Distributed computing and Software Development. Actively looking for full time job opportunities.
-
-I have worked previously as a Software Developer in Irvine, California, USA. Before this, I got my Doctoral degree in Structural engineering from University of California San Diego, in the field of Computational Mechanics (Numerical Simulation/Scientific computing).
-
-Below are examples of a few personal projects, some of them are from my Doctoral thesis and some are from current class projects. They include application problems or surveys for machine learning, parallel computing, information visualization, image segmentation, numerical analysis and reduced order modeling using principal component analysis. 
-</div>
-
 ## Projects
 ### Machine Learning Projects / Implementations:
 <div style="text-align: justify"> 
 <ul style="list-style-type:disc;">
   <li>Review of Machine Learning Methods for Human Face Recognition in Images. <a href="https://bramyarao.github.io/Review-Face-Recognition/" target="_blank">Link to Github page</a>.</li>
   <li>Review of Question Answering in Natural Language Processing. <a href="https://bramyarao.github.io/NLP-QA/" target="_blank">Link to Github page</a>.</li>
-  <li>Fundamental Machine Learning Methods Part I: Classification (Jupyter Notebook). Coming soon...</li>
-  <li>Fundamental Machine Learning Methods Part II: Regression (Jupyter Notebook). Coming soon...</li>
 </ul>  
 </div>
 
